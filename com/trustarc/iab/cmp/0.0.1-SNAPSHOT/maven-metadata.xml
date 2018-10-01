@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.trustarc.iab</groupId>
+  <artifactId>cmp</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181001.095854</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20181001095854</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>0.0.1-20181001.095854-3</value>
+        <updated>20181001095854</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20181001.095854-3</value>
+        <updated>20181001095854</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
